@@ -13,7 +13,7 @@ You may try this script on a Windows machine with Python installed and it may wo
 
 2. This module uses the 'os' and 'sys' libraries that are bundled with every install of Python, so there's no need for any additional library installation for this script
 
-3. To run the script, type into Terminal
+3. To run the script, type into Terminal (from the directory where pyorganize.py is saved)
 	
 	`python pyorganize.py`
 
@@ -25,4 +25,4 @@ You may try this script on a Windows machine with Python installed and it may wo
 
 If everything works out you should see 'Cleanup Done!' and your folders will contain files (or directories for the 'Folders' folder) that can now be moved into external hard drives, organized on the local computer, batch renamed, or deleted.
 
-If you'd prefer a different naming scheme, want to organize things differently, or want to extend the script's functionality, feel free to fork the repo and clone the contents to do so.
+If you'd prefer a different naming scheme, want to organize things differently, or want to extend the script's functionality, feel free to fork this repo and clone its contents to do so.
