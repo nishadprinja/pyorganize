@@ -20,7 +20,7 @@ file_types = ['.pdf', '.txt', '.rtf', '.doc', '.docx', '.pages', '.xls', '.xlsx'
 			'.zip', '.rar', '.dmg', '.pkg', '.tar.gz', '.gz', '.webarchive', '.ics', '.als', '.band', '.logic', '.logicx', '.ptf', '.ptx', '.fcp', '.fcpx', '.imovieproj',
 			'.jpg', '.jpeg', '.png', '.bmp', '.gif', '.psd', '.cr2', '.crw' , '.nef',
 			'.mp3', '.aac', '.flac', '.ogg', '.wav', '.aif', '.aiff', '.wma', '.m4a',
-			'.mov', '.mp4', '.h264', '.avi', '.wmv', '.mkv', '.flv', '.mpg', '.mpeg']
+			'.mov', '.mp4', '.h264', '.avi', '.wmv', '.mkv', '.flv', '.mpg', '.mpeg', '.m4v']
 
 # Contraints to stop hidden files/folders causing a program error
 hidden_elements = ['.', '_', '\\']
